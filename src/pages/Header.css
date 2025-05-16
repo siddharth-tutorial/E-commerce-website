@@ -1,0 +1,11 @@
+.amazon-header {
+  font-size: 0.9rem;
+}
+
+.amazon-search {
+  width: 50%;
+}
+
+.amazon-search input {
+  width: 100%;
+}

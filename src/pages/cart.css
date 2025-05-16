@@ -1,0 +1,23 @@
+body {
+  background-color: #000 !important;
+}
+
+.card {
+  border-radius: 20px !important;
+}
+
+button {
+  border-radius: 50px !important;
+}
+
+button:focus {
+  box-shadow: none !important;
+}
+.card {
+  border-radius: 1rem !important;
+}
+
+button {
+  border-radius: 50px !important;
+  min-width: 32px;
+}

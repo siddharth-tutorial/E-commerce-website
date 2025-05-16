@@ -1,0 +1,10 @@
+.carousel-item img {
+  height: 450px;
+  object-fit: cover;
+}
+
+.product-card img {
+  height: 220px;
+  object-fit: contain;
+  background-color: #f8f9fa;
+}
